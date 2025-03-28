@@ -1,21 +1,34 @@
-👋 Hi there, I’m Swapna Dirisala
-I'm a passionate and experienced Front-End Software Engineer with a strong focus on building responsive, scalable, and user-friendly web applications. With a background in both startup and enterprise environments—including my current role at Apple (via Hogarth Worldwide)—I bring a blend of creativity and precision to crafting high-quality UI experiences.
+# 👋 Hi there, I’m Swapna Dirisala
 
-💻 Tech Stack Highlights
-React, Angular 8, TypeScript, RxJS, NgRx, Node.js, Express, MongoDB, MySQL, Spectrum Web Components, Jest, Cypress, and more.
+I'm a passionate and experienced **Front-End Software Engineer** with a strong focus on building responsive, scalable, and user-friendly web applications. With a background in both startup and enterprise environments—including my current role at Apple (via Hogarth Worldwide)—I bring a blend of creativity and precision to crafting high-quality UI experiences.
 
-🎯 What I’m known for
+## 💻 Tech Stack Highlights
+- **Languages & Frameworks**: JavaScript (ES6), TypeScript, React, Angular 8, RxJS, NgRx, Node.js, Express, MongoDB, MySQL, HTML5, CSS3
+- **Testing Tools**: Jest, Cypress, React Testing Library
+- **UI Libraries**: Angular Material, Spectrum Web Components, Bootstrap
+- **Other Tools**: Git, GitHub, Slack Webhooks, Adobe Creative Suite, Trello
 
-Clean, performant code and reusable UI components
-Bridging design and development for seamless experiences
-Mentoring junior devs and leading code quality efforts
-Test-driven development with tools like Jest and Cypress
-Agile workflows and cross-functional collaboration
-🛠️ Currently working on
-Automation engineering for graphic production pipelines, building internal tools that streamline workflows and enhance visual delivery at scale.
+## 🎯 What I’m Known For
+- Building clean, performant, and reusable UI components  
+- Bridging the gap between design and development  
+- Leading code quality efforts and mentoring junior developers  
+- Practicing test-driven development and performance optimization  
+- Working in agile, cross-functional teams
 
-📚 Always learning
-Latest front-end frameworks, testing best practices, and modern web design trends. I’ve completed courses on React, Angular, Jest, and Cypress to stay sharp.
+## 🛠️ Currently Working On
+Automation engineering for graphic production pipelines at Apple, crafting internal tools that streamline workflows and enhance creative output at scale.
 
-🚀 Let’s connect or collaborate
-Check out some of my projects here on GitHub, and feel free to connect via LinkedIn.
+## 📚 Always Learning
+I regularly invest time in improving my skills—recently diving into:
+- Cypress & Jest Testing  
+- React.js Essentials  
+- Angular & Modern Front-End Architecture
+
+## 🚀 Let’s Connect or Collaborate
+Feel free to check out my projects here on GitHub, or reach out on [LinkedIn](https://www.linkedin.com/in/swapna-dirisala/).
+
+---
+📍 Based in Tracy, CA  
+📧 sdirisala@apple.com  
+🔗 [GitHub](https://github.com/swapnadnk) | [LinkedIn](https://www.linkedin.com/in/swapna-dirisala/)
+
