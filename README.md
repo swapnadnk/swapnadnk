@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Swapna Dirisala
 
-I'm a passionate and experienced **Front-End Software Engineer** with a strong focus on building responsive, scalable, and user-friendly web applications. With a background in both startup and enterprise environments—including my current role at Apple (via Hogarth Worldwide)—I bring a blend of creativity and precision to crafting high-quality UI experiences.
+I'm a passionate and experienced **Front-End and Automation Engineer** with a strong focus on building responsive, scalable, and user-friendly web applications. In recent years, I've specialized in developing plugins and macOS apps for creative tools like Adobe applications and Sketch—crafting solutions that enhance design workflows and empower creative professionals. With experience in both startup and enterprise environments—including my current role at Apple (via Hogarth Worldwide)—I bring a blend of creative thinking and engineering precision to every project.
 
 ## 💻 Tech Stack Highlights
 - **Languages & Frameworks**: JavaScript (ES6), TypeScript, React, Angular 8, RxJS, NgRx, Node.js, Express, MongoDB, MySQL, HTML5, CSS3
