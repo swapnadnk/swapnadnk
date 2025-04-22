@@ -28,7 +28,7 @@ I regularly invest time in improving my skills—recently diving into:
 Feel free to check out my projects here on GitHub, or reach out on [LinkedIn](https://www.linkedin.com/in/swapna-dirisala/).
 
 ---
-📍 Based in Tracy, CA  
+📍 Based in Sunnyvale, CA  
 📧 sdirisala@apple.com  
 🔗 [GitHub](https://github.com/swapnadnk) | [LinkedIn](https://www.linkedin.com/in/swapna-dirisala/)
 
