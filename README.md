@@ -29,6 +29,6 @@ Feel free to check out my projects here on GitHub, or reach out on [LinkedIn](ht
 
 ---
 📍 Based in Sunnyvale, CA  
-📧 sdirisala@apple.com  
+📧 swapnadnk@gmail.com  
 🔗 [GitHub](https://github.com/swapnadnk) | [LinkedIn](https://www.linkedin.com/in/swapna-dirisala/)
 
