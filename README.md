@@ -1,34 +1,98 @@
-# 👋 Hi there, I’m Swapna Dirisala
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Swapna Dirisala - GitHub Profile</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      color: #333;
+    }
+    h1, h2, h3 {
+      color: #111;
+    }
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      padding-left: 1.2em;
+    }
+    code {
+      background-color: #f6f8fa;
+      padding: 0.2em 0.4em;
+      border-radius: 3px;
+      font-size: 90%;
+    }
+  </style>
+</head>
+<body>
 
-I'm a passionate and experienced **Front-End and Automation Engineer** with a strong focus on building responsive, scalable, and user-friendly web applications. In recent years, I've specialized in developing plugins and macOS apps for creative tools like Adobe applications and Sketch—crafting solutions that enhance design workflows and empower creative professionals. With experience in both startup and enterprise environments—including my current role at Apple (via Hogarth Worldwide)—I bring a blend of creative thinking and engineering precision to every project.
+  <h1>👋 Hi, I’m Swapna Dirisala</h1>
 
-## 💻 Tech Stack Highlights
-- **Languages & Frameworks**: JavaScript (ES6), TypeScript, React, Angular 8, RxJS, NgRx, Node.js, Express, MongoDB, MySQL, HTML5, CSS3
-- **Testing Tools**: Jest, Cypress, React Testing Library
-- **UI Libraries**: Angular Material, Spectrum Web Components, Bootstrap
-- **Other Tools**: Git, GitHub, Slack Webhooks, Adobe Creative Suite, Trello
+  <p>
+    I'm a Front-End and Automation Engineer with 7+ years of experience building internal tools, creative plugins, and scalable web apps.
+    Lately, I've been focused on automating plugin lifecycle management and developing SwiftUI/macOS tools to support creative teams—
+    especially within Apple’s production environment via Hogarth Worldwide.
+  </p>
+  <p>
+    My work spans from React UIs and Angular dashboards to test automation with Cypress and Jest. I care about clean code, thoughtful UX, and building tools that make other people’s jobs easier.
+  </p>
 
-## 🎯 What I’m Known For
-- Building clean, performant, and reusable UI components  
-- Bridging the gap between design and development  
-- Leading code quality efforts and mentoring junior developers  
-- Practicing test-driven development and performance optimization  
-- Working in agile, cross-functional teams
+  <h2>⚙️ Tech Stack</h2>
+  <ul>
+    <li><strong>Languages & Frameworks:</strong> JavaScript (ES6), TypeScript, React, Angular 8, RxJS, NgRx, Node.js, Express, MongoDB, MySQL, HTML5, CSS3, SASS, Swift</li>
+    <li><strong>Testing & Automation:</strong> Jest, React Testing Library, Cypress, Jasmine, Karma</li>
+    <li><strong>UI / Design Systems:</strong> Spectrum Web Components, Angular Material, Bootstrap</li>
+    <li><strong>Creative Tooling:</strong> Adobe Photoshop, Illustrator, After Effects, Sketch, UXP, ExtendScript</li>
+    <li><strong>Other Tools:</strong> Git, GitHub, Slack Webhooks, Trello, Webpack, macOS</li>
+  </ul>
 
-## 🛠️ Currently Working On
-Automation engineering for graphic production pipelines at Apple, crafting internal tools that streamline workflows and enhance creative output at scale.
+  <h2>✅ What I Focus On</h2>
+  <ul>
+    <li>Automating creative workflows (UXP, macOS apps)</li>
+    <li>Writing modular, testable front-end code</li>
+    <li>End-to-end testing with Cypress and unit testing with Jest</li>
+    <li>Collaborating with designers and creative teams to build helpful internal tools</li>
+    <li>Mentoring junior devs and maintaining code quality standards</li>
+  </ul>
 
-## 📚 Always Learning
-I regularly invest time in improving my skills—recently diving into:
-- Cypress & Jest Testing  
-- React.js Essentials  
-- Angular & Modern Front-End Architecture
+  <h2>🔨 Featured Projects</h2>
+  <ul>
+    <li><a href="https://github.com/swapnadnk/DataFromGIT" target="_blank">DataFromGIT</a>: Automation script using Git metadata</li>
+    <li><a href="https://github.com/swapnadnk/kanban-clone" target="_blank">kanban-clone</a>: Task management UI built with TypeScript</li>
+    <li><a href="https://github.com/swapnadnk/Calculator-Layout-iOS13" target="_blank">Calculator‑Layout‑iOS13</a>: Swift-based UI project</li>
+    <li><a href="https://github.com/swapnadnk/Dicee-iOS" target="_blank">Dicee‑iOS</a>: A fun Swift project showing interactive layout handling</li>
+  </ul>
+  <p><em>(More coming soon: Cypress demos, SwiftUI plugin manager, UXP utilities)</em></p>
 
-## 🚀 Let’s Connect or Collaborate
-Feel free to check out my projects here on GitHub, or reach out on [LinkedIn](https://www.linkedin.com/in/swapna-dirisala/).
+  <h2>🧠 Currently Learning</h2>
+  <ul>
+    <li>Advanced Cypress automation</li>
+    <li>CI workflows for test + deployment</li>
+    <li>Design systems and Spectrum UI patterns</li>
+    <li>React + UXP integration strategies</li>
+  </ul>
 
----
-📍 Based in Sunnyvale, CA  
-📧 swapnadnk@gmail.com  
-🔗 [GitHub](https://github.com/swapnadnk) | [LinkedIn](https://www.linkedin.com/in/swapna-dirisala/)
+  <h2>🤝 Let’s Connect</h2>
+  <p>
+    📍 Sunnyvale, CA<br>
+    📧 <a href="mailto:swapnadnk@gmail.com">swapnadnk@gmail.com</a><br>
+    🔗 <a href="https://github.com/swapnadnk" target="_blank">GitHub</a> |
+    <a href="https://www.linkedin.com/in/swapna-dirisala/" target="_blank">LinkedIn</a>
+  </p>
+
+  <hr>
+  <p>Thanks for stopping by!</p>
+
+</body>
+</html>
+
 
