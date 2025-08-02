@@ -49,8 +49,7 @@ Git, GitHub, Slack Webhooks, Trello, Webpack, macOS
 
 ## 🧠 Currently Learning
 
-- Cypress end-to-end testing  
-- CI workflows and deployment automation  
+- Cypress end-to-end testing   
 - Design systems and Spectrum UI patterns  
 - React + UXP integration strategies  
 
